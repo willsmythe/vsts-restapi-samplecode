@@ -130,6 +130,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Build\BuildBadge.cs" />
     <Compile Include="Configuration.cs" />
     <Compile Include="GettingStarted\Authentication.cs" />
     <Compile Include="IConfiguration.cs" />
